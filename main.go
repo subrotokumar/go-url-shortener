@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Go-Url-Shorter")
+	fmt.Println("Go-Url-Shortener")
 	model.SetUp()
 	server.ServeAndListen()
 }
